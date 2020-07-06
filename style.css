@@ -52,12 +52,12 @@ h2 {
 }
 h3 {
   text-align: center;
-  font-weight: 900;
+  font-weight: 700;
 }
 .students-title {
   display: -ms-grid;
   display: flex;
-  font-weight: 900;
+  font-weight: 700;
   font-style: normal;
 }
 .video-students-container {
